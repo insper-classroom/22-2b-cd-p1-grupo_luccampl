@@ -9,4 +9,4 @@ Leia o enunciado e os arquivos `README.md` dentro de cada pasta!
 Sinta-se livre para alterar este `README.md`!
 
 ## Status das entregas
-![svg](http://3.142.157.80/webhook2/cdados/test/svg/insperclassroom/22-2b-cd-p1-grupo_luccampl)
+![svg](http://3.142.157.80/webhook2/cdados/test/svg/insper-classroom/22-2b-cd-p1-grupo_luccampl)
